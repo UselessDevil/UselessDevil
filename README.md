@@ -15,6 +15,7 @@ I have 2 years of experience of Node.js and many NPMs such as:
 Also, I'm really good at maths and relateds.
 
 I'm up for any programming, web design, or relateds job 👨‍💻
+(I prefer working with comissions)
 
 ## Contact
 
