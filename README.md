@@ -3,6 +3,7 @@
 #### Semi-Senior FullStack Dev 💻
 
 I'm proudly Argentinian 🇦🇷 
+
 I speak 🇪🇸 Spanish  (native language) and 🇬🇧 English  (I have an Cambridge Certificate)
 
 I have 2 years of experience of Node.js and many NPMs such as:
